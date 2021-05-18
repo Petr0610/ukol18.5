@@ -25,3 +25,8 @@ https://www.w3schools.com/php/php_looping_foreach.asp
 Výsledek prosím dát do souboru ´seznamFilmu.php´
 
 celý kod lze napsat na 3 řádky
+
+výstup bude vypadat takto
+
+![vystup](https://i.imgur.com/IC4amKa.png "Logo Title Text 1")
+
